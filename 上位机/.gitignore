@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+.venv/
+FTServo_Python/
+备份/
+.local/
+.pytest_cache/
+joint_bindings.json
+*.csv
+*.log
